@@ -1,0 +1,27 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "prisma",
+    "typescript",
+    "javascript",
+    "typescriptreact",
+    "json",
+    "python",
+    "css",
+    "scss",
+    "html",
+    "vue",
+    "graphql",
+    "ruby",
+    "csharp",
+    "omnisharp",
+    "json",
+    "yml"
+  ],
+  "solargraph.autoformat": true,
+  "solargraph.formatting": true,
+  "solargraph.hover": true,
+  "diagnostic.virtualText": false,
+  "diagnostic.checkCurrentLine": true,
+  "diagnostic.refreshOnInsertMode": true,
+  "diagnostic.enable": true
+}
